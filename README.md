@@ -1,5 +1,5 @@
 # System-Design
-1. Scalability:
+1. Scalling:
   - Vertical Scalling: Getting bigger server
   - Horizontal Scalling: Increasing server count.
 
