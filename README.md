@@ -1,5 +1,7 @@
 # System-Design
 1. Scalability:
-  i. Vertical Scalling: Getting bigger machine
-  ii. Horizontal Scalling: Increasing maching count.
+  - Vertical Scalling: Getting bigger machine
+  - Horizontal Scalling: Increasing machine count.
+
+
   
